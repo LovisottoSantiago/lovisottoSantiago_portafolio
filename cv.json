@@ -72,17 +72,30 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+  "education": [
+    {
+      "institution": "Universidad Nacional Arturo Jauretche | UNAJ",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniería en Informática, cursando 3er año.",
+      "studyType": "Bachelor",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Instituto San Juan Bautista - Formación Secundaria",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Técnico Electromecánico, conocimientos en mecanizado e impresión 3D.",
+      "studyType": "Bachelor",
+      "startDate": "2016-03-01",
+      "endDate": "2022-11-1",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
   }],
   "awards": [{
     "title": "Award",
