@@ -74,13 +74,13 @@
   }],
   "education": [
     {
-      "institution": "Universidad Nacional Arturo Jauretche | UNAJ",
+      "institution": "Universidad Nacional Arturo Jauretche - UNAJ",
       "url": "https://www.uoc.edu/portal/es/index.html",
       "area": "Ingeniería en Informática, cursando 3er año.",
-      "studyType": "Bachelor",
+      "studyType": "Universitario",
       "startDate": "2023-03-01",
       "endDate": null,
-      "score": "4.0",
+      "score": "8.0",
       "courses": [
         "DB1101 - Basic SQL"
       ]
@@ -89,10 +89,10 @@
       "institution": "Instituto San Juan Bautista - Formación Secundaria",
       "url": "https://www.uoc.edu/portal/es/index.html",
       "area": "Técnico Electromecánico, conocimientos en mecanizado e impresión 3D.",
-      "studyType": "Bachelor",
+      "studyType": "Secundario",
       "startDate": "2016-03-01",
       "endDate": "2022-11-1",
-      "score": "4.0",
+      "score": "9.0",
       "courses": [
         "DB1101 - Basic SQL"
       ]
@@ -218,9 +218,9 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Say it",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Proyecto hecho con Java Swing para entrenar la pronunciación de inglés.",
       "highlights": [
         "Elige tu propia aventura",
         "En desarrollo"
@@ -228,9 +228,9 @@
       "url": "https://mars.codes"
     },
     {
-      "name": "AdventJS",
+      "name": "Bacclean Chronicles",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Juego hecho con Java libgdx.",
       "highlights": [
         "+1 millón de visitas",
         "Multidioma",
