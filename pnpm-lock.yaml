@@ -12,8 +12,8 @@ importers:
         specifier: ^0.9.4
         version: 0.9.4(typescript@5.6.3)
       astro:
-        specifier: ^4.16.7
-        version: 4.16.7(rollup@4.24.2)(typescript@5.6.3)
+        specifier: ^4.16.14
+        version: 4.16.14(rollup@4.24.2)(typescript@5.6.3)
       typescript:
         specifier: ^5.6.3
         version: 5.6.3
@@ -664,8 +664,8 @@ packages:
   array-iterate@2.0.1:
     resolution: {integrity: sha512-I1jXZMjAgCMmxT4qxXfPXa6SthSoE8h6gkSI9BGGNv8mP8G/v0blc+qFnZu6K42vTOiuME596QaLO0TP3Lk0xg==}
 
-  astro@4.16.7:
-    resolution: {integrity: sha512-nON+8MUEkWTFwXbS4zsQIq4t0Fs42eulM4x236AL+qNnWfqNAOOqAnFxO1dxfJ1q+XopIBbbT9Mtev+0zH47PQ==}
+  astro@4.16.14:
+    resolution: {integrity: sha512-2IuLkIp4idyspugq+F52rHZyNqHHi2AdQzuKp3SGytg/YAm50dNeWhP/7l+enjgWZLloLq5xsH5gVQpoDFoyFg==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=21.0.0, npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
@@ -1270,8 +1270,8 @@ packages:
   oniguruma-to-js@0.4.3:
     resolution: {integrity: sha512-X0jWUcAlxORhOqqBREgPMgnshB7ZGYszBNspP+tS9hPD3l13CdaXcHbgImoHUHlrvGx/7AvFEkTRhAGYh+jzjQ==}
 
-  ora@8.1.0:
-    resolution: {integrity: sha512-GQEkNkH/GHOhPFXcqZs3IDahXEQcQxsSjEkK4KvEEST4t7eNzoMjxTzef+EZ+JluDEV+Raoi3WQ2CflnRdSVnQ==}
+  ora@8.1.1:
+    resolution: {integrity: sha512-YWielGi1XzG1UTvOaCFaNgEnuhZVMSHYkW/FQ7UX8O26PtlpdM84c0f7wLPlkvx2RfiQmnzd61d/MGxmpQeJPw==}
     engines: {node: '>=18'}
 
   p-limit@2.3.0:
@@ -2444,7 +2444,7 @@ snapshots:
 
   array-iterate@2.0.1: {}
 
-  astro@4.16.7(rollup@4.24.2)(typescript@5.6.3):
+  astro@4.16.14(rollup@4.24.2)(typescript@5.6.3):
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@astrojs/internal-helpers': 0.4.1
@@ -2488,7 +2488,7 @@ snapshots:
       micromatch: 4.0.8
       mrmime: 2.0.0
       neotraverse: 0.6.18
-      ora: 8.1.0
+      ora: 8.1.1
       p-limit: 6.1.0
       p-queue: 8.0.1
       preferred-pm: 4.0.0
@@ -3299,7 +3299,7 @@ snapshots:
     dependencies:
       regex: 4.3.3
 
-  ora@8.1.0:
+  ora@8.1.1:
     dependencies:
       chalk: 5.3.0
       cli-cursor: 5.0.0
